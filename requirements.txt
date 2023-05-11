@@ -16,6 +16,6 @@ watchfiles==0.18.1
 websockets==10.4
 gunicorn==19.7.1
 pandas
-sklearn
+scikit-learn
 matplotlib
 joblib
